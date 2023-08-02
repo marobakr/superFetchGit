@@ -1,0 +1,18 @@
+{
+  "name": "git-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/style.scss css/style.css -w"
+  },
+  "author": "Marwan Abubkr",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "node-sass": "^4.5.3"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
